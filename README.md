@@ -1,1 +1,1 @@
-# INFOMAML
+# Advanced Machine Learning
